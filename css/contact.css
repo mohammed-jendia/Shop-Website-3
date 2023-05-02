@@ -1,0 +1,76 @@
+
+.section-two{
+    margin-top: 60px;
+}
+.map img{
+    width: 500px;
+    height:600px ;
+}
+
+.form{
+    background-color: #dddddd;
+    margin-left: -70px;
+    padding: 70px
+}
+
+input{
+    margin-bottom: 30px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid;
+    color: #dddddd;
+    background-color: #ededed;
+
+}
+
+.form .top-input{
+    display: flex;
+    justify-content: space-between;
+}
+
+input.three{
+    width: 96%;
+}
+
+.checkbox{
+    display: block;
+}
+
+.checkbox .group1,.group2{
+    display:flex;
+}
+
+.checkbox .check{
+    padding-right: 30px;
+    color: #6d6d6d;;
+
+}
+
+input.massage{
+    width: 96%;
+    padding-bottom: 100px;
+}
+
+.form button{
+    width: 215px;
+    height: 45px;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:#8d99af;
+    padding: 0 12px;
+    color: white;
+}
+
+.form button i{
+    border-radius: 50%;
+    padding: 6px;
+    background-color: black;
+    color: white;
+}
+
+.form button:hover{
+    background-color: #2b2d42;
+}

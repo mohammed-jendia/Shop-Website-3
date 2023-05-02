@@ -1,0 +1,93 @@
+.section-first{
+    background-image: url("../img/heading-bg.jpg");
+    background-size:cover;
+    height: 510px;
+    position: relative;
+}
+
+.text{
+    z-index: 2;
+    position: absolute;
+    top: 42%;
+    right: 25%;
+    color: white;
+}
+
+.text h3{
+    font-size: 15px;
+}
+
+.text h1{
+    font-size: 20px;
+    font-size: 44px;
+    font-weight: bold;
+    padding-right: 362px;
+    line-height: 60px;
+}
+
+.section-secount .parent-box {
+    background-color: white;
+}
+
+.section-secount .parent-box .services .direction {
+    margin-bottom: 20px;
+
+}
+
+.right-content {
+    background-color: #f7f7f7;
+    border-radius: 7px;
+    margin-left: -62px;
+    padding: 37px 7px 16px 46px;
+}
+
+.left-imge img{
+    height: 332px;
+}
+
+.Listing-item .left-imge{
+    position: relative;
+}
+
+.Listing-item .left-imge button{
+    position: absolute;
+    z-index: 2;
+    right: 34%;
+    bottom: 46%;
+    height: 45px;
+    width: 200px;
+    background-color: white;
+    border-radius: 8px;
+    margin-left: 155px;
+    border: none;
+}
+
+.Listing-item .left-imge button:hover{
+    background-color: #8d99af;
+}
+
+.right-content .flex h4 {
+    font-size: 20px;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal,.swiper-pagination-custom, .swiper-pagination-fraction {
+  margin-bottom: -17px;
+}
+
+
+.Apartments2.active{
+    background-color: #8d99af !important ;
+}
+
+.Food2.active{
+    background-color: #2b2d42 !important ;
+}
+
+.Car2.active{
+    background-color: #2b2d42 !important ;
+}
+
+.Shopping2.active{
+    background-color: #2b2d42 !important ;
+}
+
